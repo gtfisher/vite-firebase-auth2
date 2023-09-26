@@ -19,9 +19,9 @@ basics working: 25/9/2023
 
 ## todo
 
-- [] Add google eauth
+- [ ] Add google eauth
 - [x] put in GH
-- [] workout how to use use with VitePress
+- [ ] workout how to use use with VitePress
 
 
 
